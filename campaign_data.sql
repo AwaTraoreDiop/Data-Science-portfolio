@@ -1,9 +1,4 @@
-drop table #campaign_dataset
-select * 
-into #campaign_dataset
-from DWH_WorkDb.dbo.awa_fake_data
-
--- How many customers in the dataset ?
+-- Customers overview in the dataset ?
 drop table #overview
 select count(distinct customer_id) customer
 , AVG(round(datediff(month, birth_date,  event_date)/12, 0)) as age
@@ -33,8 +28,8 @@ group by gender
 order by cust 
 
 --Analysis :
--- the dataset is very well documented
--- there are as much men and women as unidentified genders
+-- 1/3 of customers do not have an identified gender
+-- there are as much men as women 
 
 -- age cluster
 drop table #customer
@@ -83,3 +78,5 @@ select datepart(iso_week, event_date) as weeks
 from #campaign_dataset
 group by datepart(iso_week, event_date)
 order by weeks
+
+-- ... to be continued
