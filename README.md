@@ -10,12 +10,12 @@ In my opinion, Data Analytics is like a puzzle.
 I am all the time fascinated with all the insights we can get from just some simple code. 
 
 5 years ago, I didn't even know about Data Analytics nor Data Science. 
-Then, Curiosity led me to the Universe of Data. 
-And I finally found my Element, my true passion.
+Then, Curiosity led me to the Universe of Data
+where I finally found my Element, my true passion.
 
 My ultimate goal is to master it, work on projects interesting and MEANINGFUL to me and people. 
 
-I do believe that real and quality Data is the foundation of every business success.
+I do believe that real and quality Data are the foundation of every business success.
 
 Here are my personal projects👩🏽‍💻.
 
