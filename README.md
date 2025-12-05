@@ -29,8 +29,9 @@ Enjoy !
 - [NLP Customers Reviews](nlp_verbatim_google.ipynb)
 
 ## 🔍 Power BI (coming ...)
-- [Recreation Hans Rosling famous visualisation](powerbi/rapport-ventes.md)
+- [My lifestory at a glance](powerbi/mylifestory.md)
 - [CRM typical dashboard](powerbi/rapport-marketing.md)
+- [Recreation Hans Rosling famous visualisation](powerbi/rapport-ventes.md)
 
 ## 🔍 SQL
 - [CRM Data Analysis](campaign_data.sql)
