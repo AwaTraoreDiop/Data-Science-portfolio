@@ -74,8 +74,7 @@ import pyLDAvis.lda_model
 
 # # **Data Overview**
 # %%
-df = pd.read_excel(r"NLP_verbatims_google\data\verbatims1000.xlsx")
-df = df[["Id", "Date_Id#Evaluation", "answer", "Comments"]].sample(10000).reset_index(drop=True)
+df = pd.read_excel(r"verbatims1000.xlsx")
 df.head()
 # %%
 df.shape
@@ -194,7 +193,7 @@ stopWords = ['a','abord', 'absolument', 'afin', 'ah', 'ai', 'aie', 'ailleurs', '
              'vlan', 'voici', 'voilà', 'vont', 'vos', 'votre', 'vous', 'vous-mêmes', 'vu', 'vé', 'vôtre', 'vôtres', 'zut', 'à', 'â', 'ça',
              'étaient', 'étais', 'était', 'étant', 'été', 'être', 'ô','a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o',
              'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'grrrrrrr','mdrrrrrr', 'mdr', 'qu','grosso','modo',"c'est","s'est","en gros",'lol'
-             ,'ptdr', 'svp','stp','qu', 'tr', 'grand', 'optical',"général d'optique", "fois","vivement","vraiment", "mr.", "vraiment", "lunette", "lunettes"
+             ,'ptdr', 'svp','stp','qu', 'tr', "fois","vivement","vraiment", "mr.", "vraiment"
              , 'mdm', 'm.', 'mme']
 stopWords = [unidecode(sw) for sw in stopWords]
 # %%
@@ -740,3 +739,4 @@ df3[df3['Comments']== 'Top'].head()
 # %% [markdown]
 # # CONNEXION A SQL SERVER : table DWH
 # %%
+
