@@ -12,7 +12,8 @@
       "version": "3.10.0"
     },
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "accelerator": "GPU",
     "widgets": {
@@ -3443,6 +3444,16 @@
   "cells": [
     {
       "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AwaTraoreDiop/Data-Science-portfolio/blob/main/NLP-Decisions-Judiciaires\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
       "id": "m0",
       "metadata": {
         "id": "m0"
@@ -4847,7 +4858,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 611
+          "height": 475
         },
         "id": "c14",
         "outputId": "68728868-a7d1-413d-8665-01d173486d2f"
@@ -5046,7 +5057,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 296,
+          "height": 316,
           "referenced_widgets": [
             "e142499b4ebe42aeb24fd9ade6401d9a",
             "b38032990fa844158229654a94d9cc04",
@@ -5587,7 +5598,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 415
+          "height": 304
         },
         "id": "c22",
         "outputId": "fa722acb-1b2c-4120-b204-799249cc2e98"
@@ -5755,7 +5766,7 @@
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 642
+          "height": 506
         },
         "id": "c25",
         "outputId": "92469150-99bd-450e-8307-85dc9918471c"
