@@ -21,19 +21,14 @@ Here are my personal projects👩🏽‍💻.
 
 Enjoy !
 
-## 🔍 Microsoft Excel
-- [Examples of charts](powerbi/rapport-ventes.md)
-
-## 🐍 Python 
+## 🔍 Data Vizualisation
+- [Examples of charts](charts.xlsx)
 - [Data Viz](subplots.ipynb)
-- [NLP Customers Reviews](nlp_verbatim_google.ipynb)
 
-## 🔍 Power BI (coming ...)
-- [My lifestory at a glance](powerbi/mylifestory.md)
-- [CRM typical dashboard](powerbi/rapport-marketing.md)
-- [Recreation Hans Rosling famous visualisation](powerbi/rapport-ventes.md)
+## 🐍 NLP & Machine learning
+- [NLP Customers Reviews](NLP-Decisions-Judiciaires.ipynb)
 
-## 🔍 SQL
+## 🔍 EDA (Exploratory Data Analysis)
 - [CRM Data Analysis](campaign_data.sql)
 
 ## 📬 Contact
