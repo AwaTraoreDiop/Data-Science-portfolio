@@ -17,8 +17,8 @@ sans intervention humaine, en utilisant CamemBERT fine-tuné.
 ## Résultats
 | Modèle | F1-score |
 |--------|----------|
-| Baseline TF-IDF + LogReg | X.XX |
-| CamemBERT fine-tuné | X.XX |
+| Baseline TF-IDF + LogReg | 0.758 |
+| CamemBERT fine-tuné | 0.744 |
 
 ## Application directe
 Détection de fraudes (DGDDI), analyse de signalements (sécurité publique)
