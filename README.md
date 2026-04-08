@@ -30,6 +30,7 @@ Enjoy !
 
 ## 🔍 EDA (Exploratory Data Analysis)
 - [CRM Data Analysis](campaign_data.sql)
+- [Traffic Data](ML_trafic_gare_GitHub.ipynb)
 
 ## 📬 Contact
 You can find me on [linkedin.com/in/awa-traoré-diop](linkedin.com/in/awa-traoré-diop) or by email awatradiop@gmail.com
