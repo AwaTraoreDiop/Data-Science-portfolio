@@ -35,4 +35,5 @@ Types d'entités les plus fréquents : MISC (divers), ORG (organisations), LOC (
 
 Entités les plus mentionnées : On retrouve fréquemment des termes comme "Code pénal", "Cour de Cassation", "Union européenne", "TVA", "Code des douanes", ainsi que diverses institutions et codes législatifs. Ceci confirme la richesse terminologique juridique des textes analysés.
 
+
 **Implication opérationnelle** : Cette source de données riche et structurée peut alimenter de nombreuses initiatives. Elle permet une analyse plus fine des typologies d'affaires pénales, essentielle pour la veille juridique, l'évaluation des réformes pénales et l'optimisation des flux de traitement des dossiers.
